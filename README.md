@@ -7,7 +7,7 @@ Machine Learning Early Warning System: a Multicenter Validation in Brazilian Hos
 
 **Keywords:** Early Warning System, Predictive medicine, Machine Learning, Explainable AI, Healthcare, Vital Signs
 
-Full Text, BibText (soon)
+[Full Text](https://ieeexplore.ieee.org/document/9183044), [BibText](https://raw.githubusercontent.com/nlp-pucrs/cbms2020/master/kobylarz2020machine.bib)
 
 ### Online Experiments
 ##### Run our experiments online with Binder
